@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://https://lucienmoor.github.io/fff/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://lucienmoor.github.io/fff</link>
 	<description></description>
 	<lastBuildDate>Sat, 14 Dec 2024 12:35:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
