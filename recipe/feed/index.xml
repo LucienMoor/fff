@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recipes &#8211; F.F.F.</title>
+	<atom:link href="https://lucienmoor.github.io/fff/recipe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lucienmoor.github.io/fff</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Dec 2024 16:35:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Limoncello</title>
+		<link>https://lucienmoor.github.io/fff/recipe/limoncello/</link>
+					<comments>https://lucienmoor.github.io/fff/recipe/limoncello/#respond</comments>
+		
+		<dc:creator><![CDATA[lmo]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 16:35:23 +0000</pubDate>
+				<guid isPermaLink="false">https://lucienmoor.github.io/fff/?post_type=recipe#038;p=36</guid>
+
+					<description><![CDATA[Lemon vodka Finely grate the zest of the lemons, cut off as much of the white part as possible. Add &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Lemon vodka</strong></p>
+
+
+
+<p>Finely grate the zest of the lemons, cut off as much of the white part as possible. Add the lemon zest to a bottle and fill with vodka. Cover and leave in a dark, cool place for at least 10 days.</p>
+
+
+
+<p><strong>Limoncello</strong></p>
+
+
+
+<p>Bring the water and sugar to the boil in a pan, leave to cool. Drain off the lemon vodka, mix with the sugar syrup. Rinse out the bottle, fill the limoncello into the bottle.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lucienmoor.github.io/fff/recipe/limoncello/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

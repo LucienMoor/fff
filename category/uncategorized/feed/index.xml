@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>lmo &#8211; F.F.F.</title>
-	<atom:link href="https://lucienmoor.github.io/fff/author/lmo/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; F.F.F.</title>
+	<atom:link href="https://lucienmoor.github.io/fff/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lucienmoor.github.io/fff</link>
 	<description></description>
 	<lastBuildDate>Sat, 14 Dec 2024 12:35:41 +0000</lastBuildDate>

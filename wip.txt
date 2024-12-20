@@ -1,0 +1,75 @@
+# GitHub repository guidelines
+
+This document is to provide a guideline on how to create and configure a gitHub repository in the Agridea organization. The goal is to have a shared standard for our repositories to facilitate collaboration and readability.
+
+
+
+These guideline is not enforced and ar, if there is a valid reason to make things differently, feel free to do so and share it with others!
+
+# Table of Contents
+
+
+## Naming convention
+
+the naming convention for repository is  `lowercase-dashes-pattern`. everything should be in lowercase, with dash separating words. Avoid using any words that might change overtime (person name, group number,..) as it renaming a repository can break links.
+
+example of repository names for a project named `project1`
+
+```
+project1-api
+project1-frontend
+project1-testing
+```
+
+## minimal readme
+At minimum, the readme should provide a description and the tools to install and run the project. The readme should be written in english
+```
+# Project Name
+
+A brief description of what your project does, its purpose, and its main features.
+---
+## Table of Contents
+
+---
+## Getting Started
+
+### Prerequisites
+
+List any requirements to run the project.
+---
+### Installation
+
+Provide detailed steps to install the project.
+---
+```
+
+## repository organization
+
+the repository organization inside the Agridea Organization (in addition to a good naming convention!) is done with Teams and Topics. At minimum, each repository should be associated to a Team (Acorda, ...) If a project has a lot of repositories (e.g. multiple micro-services) it is recommended to create a specific Team for this project.
+
+In adition do that, it is also recommended to add Topic to your projects, to describe what subject the project is talking about (e.g. `Finance` , `Direct payment`,  `Security`,...)
+
+
+## available template for new private repository
+
+When creating a new private repository, you can use the Template provided here (please provide the template). You can also consult this template to see the required files and readme.
+
+The template provide:
+- default readme
+- default issue template
+
+## Public repository
+
+### available template for new public repository
+
+When creating a new private repository, you can use the Template provided here (please provide the template). You can also consult this template to see the required files and readme.
+
+The template provide:
+- default readme
+- default issue template
+
+### Additional requirement
+
+Add a proper license file for the project
+
+
